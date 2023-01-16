@@ -33,7 +33,7 @@ export default function about() {
         data-wow-delay="0.1s"
       >
         <div class="container">
-          <h1 class="display-3 mb-4 animated slideInDown">About</h1>
+          {/* <h1 class="display-3 mb-4 animated slideInDown">About</h1> */}
           <nav aria-label="breadcrumb animated slideInDown">
             <ol class="breadcrumb mb-0">
               <li class="breadcrumb-item">

@@ -14,13 +14,10 @@ export default function About() {
               <img class="img-fluid rounded" src="img/about.png" />
             </div>
             <div class="col-lg-6 wow fadeInUp" data-wow-delay="0.3s">
-              <p class="d-inline-block border rounded text-primary fw-semi-bold py-1 px-3">
+              <p class="d-inline-block border rounded text-primary fw-semi-bold py-1 px-3 fs-1">
                 About Us
               </p>
-              <h1 class="display-5 mb-4">
-                We Help Our Clients To Grow Their Business
-              </h1>
-              <p class="mb-4 text-justify">
+              <p class="mb-4 text-justify fs-5">
                 We are a travel and logistics company providing affordable,
                 exceptional quality and time saving solutions across the globe
                 in the area of travels (Air Ticket booking, VISA assistance,
@@ -29,7 +26,6 @@ export default function About() {
                 at cheaper prices and have them delivered at your door step at
                 your convenience).
               </p>
-
               {router.asPath == "/" ? (
                 <Link legacyBehavior href="/about">
                   <a class="fw-semi-bold">
@@ -84,9 +80,6 @@ export default function About() {
                   <div class="col-lg-6 wow fadeIn" data-wow-delay="0.1s">
                     <div class="h-100">
                       <div class="d-flex">
-                        {/* <div class="flex-shrink-0 btn-lg-square rounded-circle bg-primary">
-                          <i class="fa fa-times text-white"></i>
-                        </div> */}
                         <img
                           class="img-fluid rounded"
                           src="img/vision.svg"
@@ -95,8 +88,6 @@ export default function About() {
                         <div class="ps-3">
                           <h4>Our vission</h4>
                           <span class="text-justify">
-                            {/* Dare to live the life you always wanted? Get the best out
-                        of your travel experience with us! */}
                             At Dreamz we take the complexity out of travels. You
                             can catch that VISA, Park that passport, book that
                             ticket and make your reservations with Dreamz. While
@@ -112,9 +103,6 @@ export default function About() {
                   <div class="col-lg-6 wow fadeIn" data-wow-delay="0.3s">
                     <div class="h-100">
                       <div class="d-flex">
-                        {/* <div class="flex-shrink-0 btn-lg-square rounded-circle bg-primary">
-                          <i class="fa fa-users text-white"></i>
-                        </div> */}
                         <img
                           class="img-fluid rounded"
                           src="img/mission.svg"
@@ -123,8 +111,6 @@ export default function About() {
                         <div class="ps-3">
                           <h4>Our mission</h4>
                           <span class="text-justify">
-                            {/* Buy local and international products and get them
-                        delivered to your doorstep */}
                             We help our clients move their product around the
                             world and across borders on time, on budget and in
                             compliace with ever-changing health, safety and
@@ -154,8 +140,6 @@ export default function About() {
                     <div class="ps-3">
                       <h4>Travel</h4>
                       <span class="text-justify">
-                        {/* Dare to live the life you always wanted? Get the best out
-                        of your travel experience with us! */}
                         At Dreamz we take the complexity out of travels. You can
                         catch that VISA, Park that passport, book that ticket
                         and make your reservations with Dreamz. While others
@@ -176,8 +160,6 @@ export default function About() {
                     <div class="ps-3">
                       <h4>Logistics</h4>
                       <span class="text-justify">
-                        {/* Buy local and international products and get them
-                        delivered to your doorstep */}
                         We help our clients move their product around the world
                         and across borders on time, on budget and in compliace
                         with ever-changing health, safety and security measures,

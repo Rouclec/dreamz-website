@@ -18,8 +18,9 @@ export default function Banner() {
                     <p class=" d-inline-block border border-white rounded text-primary fw-semi-bold py-1 px-3 animated slideInDown">
                       Welcome to Dreamz
                     </p>
-                    <h1 class="display-3 text-left mb-4 animated slideInDown">
-                      Coporate business development and Marketing
+                    <h1 class="display-5 text-left mb-4 animated slideInDown">
+                      Shop at the best prices and best quality from our online
+                      markets
                     </h1>
                     <a
                       href=""
@@ -42,9 +43,10 @@ export default function Banner() {
                     <p class=" d-inline-block border border-white rounded text-primary fw-semi-bold py-1 px-3 animated slideInDown">
                       Welcome to Dreamz
                     </p>
-                    <h1 class="text-dark text-left display-3 mb-4 animated slideInDown">
-                      Better your travel Expirience
-                    </h1>
+                    <h3 class="text-dark text-left display-5 mb-4 animated slideInDown">
+                      Better your travel Expirience with our best fare packages
+                      to any destination
+                    </h3>
                     <a
                       href=""
                       class="btn btn-primary py-3 px-5 animated slideInDown"
@@ -65,8 +67,8 @@ export default function Banner() {
                     <p class=" d-inline-block border border-white rounded text-primary fw-semi-bold py-1 px-3 animated slideInDown">
                       Welcome to Dreamz
                     </p>
-                    <h1 class="text-dark text-left display-3 mb-4 animated slideInDown">
-                      Your logistics partner
+                    <h1 class="text-dark text-left display-5 mb-4 animated slideInDown">
+                      Your safe and swift logistics partner any day, any time
                     </h1>
                     <a
                       href=""
