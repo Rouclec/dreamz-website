@@ -88,11 +88,10 @@ export default function About() {
                         <div class="ps-3">
                           <h4>Our vission</h4>
                           <span class="text-justify">
-                            At Dreamz we take the complexity out of travels. You
-                            can catch that VISA, Park that passport, book that
-                            ticket and make your reservations with Dreamz. While
-                            others just sell trips, we create memories and make
-                            impact.
+                            Meeting customers&apos; travel needs, Logistics and
+                            Business needs by facilitating resource acquisition
+                            and tranportation while maintaining standard quality
+                            and providing accurate services.
                           </span>
                         </div>
                         <div class="border-end d-none d-lg-block"></div>
@@ -111,11 +110,8 @@ export default function About() {
                         <div class="ps-3">
                           <h4>Our mission</h4>
                           <span class="text-justify">
-                            We help our clients move their product around the
-                            world and across borders on time, on budget and in
-                            compliace with ever-changing health, safety and
-                            security measures, bringing you the satisfaction you
-                            deserve.
+                            Providing the best quality services in travels,
+                            logistics and business
                           </span>
                         </div>
                       </div>
